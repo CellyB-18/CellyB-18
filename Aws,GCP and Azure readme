@@ -69,7 +69,6 @@ Core Services:
 
 Compute:
 Compute Engine: Virtual machines.   
-Kubernetes Engine (GKE): Managed Kubernetes service.
 Cloud Functions: Serverless functions.
 App Engine: PaaS for web applications.   
 Storage:
